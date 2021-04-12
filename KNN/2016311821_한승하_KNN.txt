@@ -1,0 +1,17 @@
+Confusion matrix
+20	0	0	
+
+19	1	0	
+
+20	0	0	
+
+Accuracy : 35.0000%
+
+Macro averaging precision : 44.6328%
+Micro averaging precision : 35.0000%
+
+Macro averaging recall : 35.0000%
+Micro averaging recall : 35.0000%
+
+Macro averaging f1-score : 20.0522%
+Micro averaging f1-score : 35.0000%
